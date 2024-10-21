@@ -1,0 +1,25 @@
+P1:
+#AIM: Install Selenium IDE. Write a test suite containing minimum 4 test cases for different 
+formats
+
+P2:
+#AIM: Conduct a test case suite for any two websites.
+
+P3:
+#AIM: Install Selenium Server(Selenium RC) and demonstrate it using a script in Java.
+
+P4(a):
+#AIM: Load Testing using JMeter. 
+
+P4(b):
+#AIM: To study Bugzilla(demo site).
+
+P5:
+#AIM: Write and test a program to update 10 student records into Excel file(table).
+
+P6:
+#AIM: Write and test a program to select the number of students from Excel file(table) who have 
+scored 60 or more in any one subject(or all subjects).
+
+P7:
+#AIM: Write and test a program for logging in facebook webpage.
